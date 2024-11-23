@@ -1,0 +1,6 @@
+N,n,b,sorting_phases,read_operations,write_operations,merge_operations,drive_operations,expected_drive_operations
+100,10,250,1,1,1,0,2,0
+1000,10,250,1,1,1,0,2,4
+10000,10,250,4,44,44,1,88,128
+100000,10,250,40,890,800,5,1690,2081
+1000000,10,250,400,23115,12090,50,35205,28816
